@@ -1,4 +1,3 @@
-import random
 from textblob import TextBlob
 
 texts = [
